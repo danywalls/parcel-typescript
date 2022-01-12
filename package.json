@@ -1,0 +1,16 @@
+{
+  "name": "parcel-typescript",
+  "version": "1.0.0",
+  "description": "example parcel with typescript",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel index.html",
+        "build": "parcel build dist"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.1.1",
+    "parcel-bundler": "^1.12.5"
+  }
+}
